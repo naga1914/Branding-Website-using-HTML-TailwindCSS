@@ -14,10 +14,13 @@ Welcome to **Rainbow**, a modern and stylish branding website built with **HTML*
 - **Shop Now & Buy Later**: 0% interest financing available 💰  
 - **Cashback Rewards**: Collect & Redeem on every order 🎁  
 - **Secure Payment**: 100% secure online transactions 🔒  
+---
 
-## 📸 Preview  
-![Website Preview](https://via.placeholder.com/1200x600.png?text=Rainbow+Branding+Website)  
+## 🔗 Live Demo
 
+👉 [Click Here to Explore the Live Demo](https://vercel.com/nagaranis-projects-2aefbb19/branding-website-using-html-tailwind-css)  
+
+---
 ## 🚀 Tech Stack  
 
 - **HTML**  

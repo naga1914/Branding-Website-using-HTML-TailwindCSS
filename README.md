@@ -18,7 +18,7 @@ Welcome to **Rainbow**, a modern and stylish branding website built with **HTML*
 
 ## 🔗 Live Demo
 
-👉 [Click Here to Explore the Live Demo](https://vercel.com/nagaranis-projects-2aefbb19/branding-website-using-html-tailwind-css)  
+👉 [Click Here to Explore the Live Demo](https://branding-website-using-html-tailwind-css.vercel.app/)  
 
 ---
 ## 🚀 Tech Stack  
